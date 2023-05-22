@@ -11,7 +11,7 @@
 
 ## 💻 Projeto
 
-Neste projeto realizado em aula, pratiquei o uso de HTML e CSS para a criação de uma landing page.
+Neste projeto realizado em aula, pratiquei o uso de HTML e CSS para a criação de uma Landing Page.
 
 ## 🚀 Tecnologias
 
