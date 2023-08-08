@@ -1,5 +1,5 @@
 <h1 align="center">
-  Arena Santos
+  Games Shop
 </h1>
 
 ## 📷 Deploy
